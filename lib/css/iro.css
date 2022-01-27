@@ -619,6 +619,7 @@ input:focus{
 /* width */
 ::-webkit-scrollbar {
   width: 10px;
+  height: 5px;
 }
 #timeline{
 	height: 100vh;
@@ -629,6 +630,12 @@ input:focus{
   background: transparent;
 }
 #timeline:hover::-webkit-scrollbar-thumb {
+  background: #F7D497;
+}
+.codeCont::-webkit-scrollbar-thumb {
+  background: #F8E7A0;
+}
+.codeCont:hover::-webkit-scrollbar-thumb {
   background: #F7D497;
 }
 
