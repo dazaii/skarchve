@@ -1,0 +1,14 @@
+*{
+	background: #070611!important;
+	border: transparent!important;
+	color: #bfbfcc!important;
+}
+.bg-white{
+	background: #070611!important;
+}
+.nfFade{
+	background: linear-gradient(transparent,#000)!important;
+}
+.nfContent{
+	border-bottom: solid 10px #000!important;
+}
