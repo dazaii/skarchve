@@ -38,7 +38,7 @@
 		<div class='col-12 nfContent'>
 			<div class='nfFade'>
 			</div>
-			<button onclick='seeMore(this);this.parentElement.style.maxHeight = \"unset\"' class='nfContentSeeMore rounded'>
+			<button onclick='seeMore(this);this.parentElement.style.maxHeight = \"unset\"' class='nfContentSeeMore rounded userselectnone'>
 				<u>SEE MORE</u> <svg width='16' height='16' fill='currentColor' class='bi bi-chevron-down' viewBox='0 0 16 16'>
 					  <path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/>
 					</svg>
@@ -66,9 +66,9 @@
 				</div>
 
 				<div class='col-12' style='overflow-x: auto'>$content</div>
-				<div class='fs-10px pt-3 roboto-light fw-bold' style='color: #888;'>$stringdate</div>
+				<div class='fs-10px pt-3 roboto-light fw-bold userselectnone' style='color: #888;'>$stringdate</div>
 				<div class='row justify-content-start g-0 align-items-center py-2 px-3'>
-					<div class='col-auto'>$id $heart</div>
+					<div class='col-auto userselectnone'>$id $heart</div>
 					<div class='col-auto ms-2' style='margin-top: -2px;'>$chat</div>
 				</div>
 			</div>

@@ -122,12 +122,17 @@ input:focus{
 	background-color: #eee;
 }
 .embedded{
-	color: #1B9DA7;
-	font-weight: bold;
+	transition: 100ms;
+	border-radius: 5px;
+	padding: 0px 6px 0px 6px;
+	color: #555555;
+	cursor: pointer;
+	background-color: #FAE5C2;
+	border: solid 1px transparent;
 }
 .embedded:hover{
-	color: black;
-	background-color: #eee;
+	color: #1B9DA7;
+	background-color: transparent;
 }
 
 .roundnotes{
@@ -195,7 +200,12 @@ input:focus{
 	color: #888;
 	font-style: italic;
 }
-
+#singlepostview{
+	font-size: 16px;
+}
+.userselectnone{
+	user-select: none;
+}
 
 /* L O A D I N G   A N I M A T I O N */
 
@@ -460,7 +470,7 @@ input:focus{
 	color: #888;
 }
 .contentEdit{
-	height: 400px;
+	height: 500px;
 	overflow-y: auto;
 	outline: solid 0px #f5f5f5;
 }

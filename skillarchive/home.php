@@ -19,9 +19,11 @@
 				color: #1B9DA7;
 				text-decoration: none;
 			}
+			/*
 			strong, b{
 				font-family: typewritter;
 			}
+			*/
 			a:hover{
 				color: #9F5D54;
 			}
@@ -73,7 +75,7 @@
 									<input type="text" spellcheck="false" id="createTitle" class="w-100 border-0 fs-5 p-1" placeholder="Title" style="outline: 0; background-color: transparent;">
 									
 								<div id="myd" spellcheck="false" onfocus="scrolldame()" onfocusout="scrolldouzo()" contenteditable="true" class="contentEdit p-4 mt-1 border-0">
-								<font size="5"><b>SHIAWASE</b></font>
+								<font size="5">SHIAWASE</font>
 								<div><font size="3">nakisetsu</font></div>
 								</div>
 								</div>
@@ -125,7 +127,7 @@
 										<button class="richTextToggles" onclick="addLink()">
 											<?php linkicon(); ?>
 										</button>
-										<button class="richTextToggles" onclick="choosetoembed()">
+										<button class="richTextToggles" id="likescount" onclick="choosetoembed()">
 											<?php linkicon(); ?>
 										</button>
 										<button class="richTextToggles" onclick="newCode()">
@@ -161,6 +163,8 @@
 										<button class="richTextToggles" onclick="highLight('#C6C1B8')">
 											<?php highlighticon(); ?>
 										</button>
+										<button class="richTextToggles" onclick="newDot('#C6C1B8')">
+											・										</button>
 										<select class="formselect" style="background-color: transparent; color: #555555;padding: 5px;" onchange="changeFontSize(this.value)">
 											<option value="1">--</option>
 											<option value="1">1pt</option>

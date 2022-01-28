@@ -87,8 +87,15 @@ function includepost(){
     var sel = document.getSelection();
     if(sel.rangeCount > 0){
         var id = prompt('Skill: ','');
-        document.execCommand("insertHTML", false, "<br>");
-        document.execCommand("insertHTML", false, "<span onclick='previewpost("+id+")' class='embedded'>@</span>");
+        newLine();
+        document.execCommand("insertHTML", false, "<font onclick='previewpost("+id+")' class='embedded'>#</font>");
+        document.execCommand("insertHTML", false, "<div>&nbsp;</div>");        
+    }
+    myd.focus();
+}
+function pin(){
+    var sel = document.getSelection();
+    if(sel.rangeCount > 0){
     }
     myd.focus();
 }
@@ -99,8 +106,8 @@ function choosetoembed(){
 
 
 function previewpost(id){
-    $("#previewModal").modal('toggle');
     viewPost(id);
+    $("#previewModal").modal('show');
 }
 function breakline(){
     document.execCommand("insertHTML", false, "<br>");
@@ -134,16 +141,20 @@ function newCode(){
 function newQoute(){
     var sel = document.getSelection();
     if(sel.rangeCount > 0){
-        document.execCommand("insertHTML", false, "“”");
+        document.execCommand("insertHTML", false, "<font size='3'>“”</font>");
     }
     myd.focus();
 }
+function newDot(){
+    document.execCommand("insertHTML", false, "<font size='3'>&nbsp;・&nbsp;</font>");
+    myd.focus();
+}
 function insertTab(){
-    document.execCommand("insertHTML", false, "&emsp;");
+    document.execCommand("insertHTML", false, "<font size='3'>&emsp;</font>");
     myd.focus();
 }
 function insertDash(){
-    document.execCommand("insertHTML", false, "&mdash;");
+    document.execCommand("insertHTML", false, "<font size='3'>&mdash;</font>");
     myd.focus();
 }
 

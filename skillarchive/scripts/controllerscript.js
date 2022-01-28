@@ -365,6 +365,7 @@ function getCatContentsForRemoval(id){
 function getContents(id){
 	$("#mydContainer").collapse("show");
 	$("#searchModal").modal("hide");
+	$("#previewModal").modal("hide");
 	var catid = 0;
 	$.ajax({
 		type: 'POST',
@@ -376,6 +377,7 @@ function getContents(id){
 		},
 		success: function(response){
 			$("#myd").html(response.s_content);
+			$("#likescount").html(response.s_id);
 			$("#createTitle").val(response.s_title);
 			catid = response.s_catid;
 			$("#selectcat").val(catid);
