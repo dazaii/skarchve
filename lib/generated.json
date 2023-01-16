@@ -1,39 +1,29 @@
 [
   {
-    "_id": "63c4b65d8f8a43f9057b1a57",
-    "index": 0,
     "name": "Wake up",
     "color": 0xffF9B208,
     "icon": 0xf4B6,
     "time": "04:00:00"
   },
   {
-    "_id": "63c4b65df9cfeade09aa9cb1",
-    "index": 1,
     "name": "Workout at 7AM",
     "color": 0xffe83a23,
     "icon": 0xf443,
     "time": "07:00:00"
   },
   {
-    "_id": "63c4b65df40d86e0b7a680ea",
-    "index": 2,
     "name": "Bath at 8AM",
     "color": 0xff0ABEF9,
     "icon": 0xf8d9,
     "time": "08:00:00"
   },
   {
-    "_id": "63c4b65d73fe8fb7b6197cc5",
-    "index": 3,
     "name": "Save P20.00",
     "color": 0xffF9B208,
     "icon": 0xf8e9,
     "time": "09:00:00"
   },
   {
-    "_id": "63c4b65daf2a714408f69b1d",
-    "index": 4,
     "name": "Any.do at 9:04AM",
     "color": 0xff0890FC,
     "icon": 0xf574,
