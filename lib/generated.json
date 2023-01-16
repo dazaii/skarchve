@@ -1,227 +1,32 @@
 [
   {
-    "_id": "63c565bc2cd522dad17f8615",
-    "index": 0,
-    "guid": "76d745ca-76cf-4007-8458-6dcc11d4106b",
-    "isActive": true,
-    "balance": "$1,819.29",
-    "picture": "http://placehold.it/32x32",
-    "age": 31,
-    "eyeColor": "brown",
-    "name": "Mara Barr",
-    "gender": "female",
-    "company": "MEMORA",
-    "email": "marabarr@memora.com",
-    "phone": "+1 (959) 526-2726",
-    "address": "687 Colin Place, Lawrence, Guam, 4219",
-    "about": "Commodo cillum sunt magna dolore proident consectetur elit sunt laboris pariatur et duis eiusmod do. Eiusmod ut et deserunt laborum elit incididunt proident nostrud dolore fugiat laboris reprehenderit. Officia consectetur proident cupidatat laboris enim sint eiusmod ipsum id culpa velit. Proident laboris fugiat pariatur ex. Reprehenderit anim ex magna aliquip ut ipsum quis nulla irure ea consequat.\r\n",
-    "registered": "2022-07-18T10:00:16 -08:00",
-    "latitude": 56.945616,
-    "longitude": 38.649118,
-    "tags": [
-      "nostrud",
-      "aute",
-      "nostrud",
-      "esse",
-      "elit",
-      "quis",
-      "consequat"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Willie Dennis"
-      },
-      {
-        "id": 1,
-        "name": "Durham Cameron"
-      },
-      {
-        "id": 2,
-        "name": "Sheri Love"
-      }
-    ],
-    "greeting": "Hello, Mara Barr! You have 8 unread messages.",
-    "favoriteFruit": "apple"
+    "name": "Wake up",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "04:00:00"
   },
   {
-    "_id": "63c565bca1de94992377ef96",
-    "index": 1,
-    "guid": "b0d4478a-78bf-4087-a829-adc6913c6f70",
-    "isActive": true,
-    "balance": "$2,995.72",
-    "picture": "http://placehold.it/32x32",
-    "age": 34,
-    "eyeColor": "brown",
-    "name": "Guadalupe Glover",
-    "gender": "female",
-    "company": "FLYBOYZ",
-    "email": "guadalupeglover@flyboyz.com",
-    "phone": "+1 (942) 580-2073",
-    "address": "375 Bills Place, Gordon, Connecticut, 9166",
-    "about": "Ea consectetur incididunt do excepteur non aute do adipisicing exercitation aliqua ullamco nisi duis officia. Ullamco aliqua nostrud non est eiusmod proident ea id laboris eu. Eiusmod dolor consectetur proident occaecat velit eu dolor mollit cillum voluptate exercitation tempor. Minim sint magna excepteur officia in minim commodo magna pariatur aliquip irure irure incididunt. Aute cupidatat exercitation veniam labore occaecat duis aliquip eu.\r\n",
-    "registered": "2019-01-16T08:50:09 -08:00",
-    "latitude": -71.368927,
-    "longitude": -27.677395,
-    "tags": [
-      "ipsum",
-      "pariatur",
-      "excepteur",
-      "ex",
-      "tempor",
-      "pariatur",
-      "sint"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Grimes Pruitt"
-      },
-      {
-        "id": 1,
-        "name": "Mclaughlin Dawson"
-      },
-      {
-        "id": 2,
-        "name": "Sheena Pugh"
-      }
-    ],
-    "greeting": "Hello, Guadalupe Glover! You have 4 unread messages.",
-    "favoriteFruit": "strawberry"
+    "name": "Workout at 7AM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "07:00:00"
   },
   {
-    "_id": "63c565bc90916d7fd55889ab",
-    "index": 2,
-    "guid": "335af888-9c5d-4cc9-95cd-148e02d5aa68",
-    "isActive": false,
-    "balance": "$2,278.22",
-    "picture": "http://placehold.it/32x32",
-    "age": 35,
-    "eyeColor": "brown",
-    "name": "Vasquez Moon",
-    "gender": "male",
-    "company": "FLOTONIC",
-    "email": "vasquezmoon@flotonic.com",
-    "phone": "+1 (968) 407-2159",
-    "address": "588 Doscher Street, Eggertsville, Texas, 966",
-    "about": "In deserunt minim consequat ullamco veniam ipsum in irure. Sunt Lorem veniam officia occaecat ullamco aliqua sit exercitation sunt aute Lorem aute voluptate elit. Culpa mollit eiusmod aute commodo tempor deserunt voluptate. Esse ad duis esse commodo et eu sunt culpa ipsum occaecat aliqua ex. Id aute officia quis elit magna adipisicing voluptate mollit consequat reprehenderit eiusmod.\r\n",
-    "registered": "2016-07-13T01:53:24 -08:00",
-    "latitude": 78.977301,
-    "longitude": -179.004034,
-    "tags": [
-      "commodo",
-      "cillum",
-      "ad",
-      "Lorem",
-      "dolor",
-      "laboris",
-      "laborum"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Dickerson Cooke"
-      },
-      {
-        "id": 1,
-        "name": "Guzman Kemp"
-      },
-      {
-        "id": 2,
-        "name": "Lara Hunter"
-      }
-    ],
-    "greeting": "Hello, Vasquez Moon! You have 6 unread messages.",
-    "favoriteFruit": "banana"
+    "name": "Bath at 8AM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "08:00:00"
   },
   {
-    "_id": "63c565bc562fb03483c2b60d",
-    "index": 3,
-    "guid": "30590da1-a1f1-47c3-9272-2e518ed8e3aa",
-    "isActive": true,
-    "balance": "$3,351.50",
-    "picture": "http://placehold.it/32x32",
-    "age": 23,
-    "eyeColor": "blue",
-    "name": "Sophia Stephenson",
-    "gender": "female",
-    "company": "GENMOM",
-    "email": "sophiastephenson@genmom.com",
-    "phone": "+1 (959) 429-3802",
-    "address": "293 Colby Court, Datil, Mississippi, 825",
-    "about": "Laborum ut eu elit incididunt consequat irure. Est eiusmod sint labore ea consequat consequat est minim. Ad elit mollit nostrud cupidatat laborum dolor irure anim incididunt sunt deserunt ullamco nisi culpa. Elit laborum consectetur est aliquip incididunt nisi do dolor.\r\n",
-    "registered": "2019-09-10T07:16:56 -08:00",
-    "latitude": -42.960865,
-    "longitude": 116.918958,
-    "tags": [
-      "id",
-      "proident",
-      "consequat",
-      "consectetur",
-      "fugiat",
-      "aute",
-      "Lorem"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Teresa Pickett"
-      },
-      {
-        "id": 1,
-        "name": "Guerrero Hanson"
-      },
-      {
-        "id": 2,
-        "name": "Helga Booth"
-      }
-    ],
-    "greeting": "Hello, Sophia Stephenson! You have 2 unread messages.",
-    "favoriteFruit": "banana"
+    "name": "Save P20.00",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "09:00:00"
   },
   {
-    "_id": "63c565bcb561ff08feaee8ea",
-    "index": 4,
-    "guid": "976b3208-286c-4f9f-a15f-c154f4b5db94",
-    "isActive": true,
-    "balance": "$2,157.04",
-    "picture": "http://placehold.it/32x32",
-    "age": 40,
-    "eyeColor": "blue",
-    "name": "Rivas Vinson",
-    "gender": "male",
-    "company": "CORPORANA",
-    "email": "rivasvinson@corporana.com",
-    "phone": "+1 (984) 534-3534",
-    "address": "234 Kensington Street, Strykersville, Tennessee, 2979",
-    "about": "Officia ex quis anim esse ipsum fugiat. Excepteur culpa Lorem labore exercitation magna velit ea commodo. Eiusmod esse aute labore duis enim commodo amet reprehenderit. Amet irure fugiat et enim fugiat do cupidatat dolor cupidatat. Id officia labore fugiat veniam.\r\n",
-    "registered": "2020-07-31T06:31:35 -08:00",
-    "latitude": 27.864673,
-    "longitude": -164.998038,
-    "tags": [
-      "proident",
-      "ea",
-      "laboris",
-      "velit",
-      "quis",
-      "consectetur",
-      "pariatur"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Meyers Goff"
-      },
-      {
-        "id": 1,
-        "name": "Neva Allen"
-      },
-      {
-        "id": 2,
-        "name": "Casey Patterson"
-      }
-    ],
-    "greeting": "Hello, Rivas Vinson! You have 5 unread messages.",
-    "favoriteFruit": "apple"
+    "name": "Any.do at 9:04AM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "09:04:00"
   }
 ]
