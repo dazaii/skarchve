@@ -2,41 +2,41 @@
   {
     "_id": "63c4b65d8f8a43f9057b1a57",
     "index": 0,
-    "name": "830e1b91-93c1-4baa-af4e-d198b1dcacbf",
-    "color": true,
-    "icon": "Hello, Mac! You have 10 unread messages.",
-    "time": "apple"
+    "name": "Wake up",
+    "color": 0xffF9B208,
+    "icon": 0xf4B6,
+    "time": "04:00:00"
   },
   {
     "_id": "63c4b65df9cfeade09aa9cb1",
     "index": 1,
-    "name": "830e1b91-93c1-4baa-af4e-d198b1dcacbf",
-    "color": true,
-    "icon": "Hello, Clay Puckett! You have 10 unread messages.",
-    "time": "apple"
+    "name": "Workout at 7AM",
+    "color": 0xffe83a23,
+    "icon": 0xf443,
+    "time": "07:00:00"
   },
   {
     "_id": "63c4b65df40d86e0b7a680ea",
     "index": 2,
-    "name": "830e1b91-93c1-4baa-af4e-d198b1dcacbf",
-    "color": true,
-    "icon": "Hello, Clay Puckett! You have 10 unread messages.",
-    "time": "apple"
+    "name": "Bath at 8AM",
+    "color": 0xff0ABEF9,
+    "icon": 0xf8d9,
+    "time": "08:00:00"
   },
   {
     "_id": "63c4b65d73fe8fb7b6197cc5",
     "index": 3,
-    "name": "830e1b91-93c1-4baa-af4e-d198b1dcacbf",
-    "color": true,
-    "icon": "Hello, Clay Puckett! You have 10 unread messages.",
-    "time": "apple"
+    "name": "Save P20.00",
+    "color": 0xffF9B208,
+    "icon": 0xf8e9,
+    "time": "09:00:00"
   },
   {
     "_id": "63c4b65daf2a714408f69b1d",
     "index": 4,
-    "name": "830e1b91-93c1-4baa-af4e-d198b1dcacbf",
-    "color": true,
-    "icon": "Hello, Clay Puckett! You have 10 unread messages.",
-    "time": "apple"
+    "name": "Any.do at 9:04AM",
+    "color": 0xff0890FC,
+    "icon": 0xf574,
+    "time": "09:04:00"
   }
 ]
