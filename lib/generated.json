@@ -1,14 +1,14 @@
 [
   {
     "name": "Wake up",
-    "color": 0xffF9B208,
-    "icon": 0xf4B6,
+    "color": "0xffF9B208",
+    "icon": "0xf4B6",
     "time": "04:00:00",
   },
   {
     "name": "Workout at 7AM",
-    "color": 0xffe83a23,
-    "icon": 0xf443,
+    "color": "0xffe83a23",
+    "icon": "0xf443",
     "time": "07:00:00",
   },
 ]
