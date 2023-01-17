@@ -48,9 +48,69 @@
     "time": "09:04:00"
   },
   {
-    "name": "Ponder and re-analyze",
+    "name": "Ponder and re-analyze at 9:30AM",
     "color": "sdfsd",
     "icon": "sjkdg",
     "time": "09:30:00"
+  },
+  {
+    "name": "人生のアルバム 10AM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "10:00:00"
+  },
+  {
+    "name": "CSC nlist and fb page 10:30AM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "10:30:00"
+  },
+  {
+    "name": "Rewatch and imprint self and career videos 11AM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "11:00:00"
+  },
+  {
+    "name": "Coding at 1PM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "13:00:00"
+  },
+  {
+    "name": "2PM CSC review",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "14:00:00"
+  },
+  {
+    "name": "4PM: Business, Designs, Life details manifestations",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "16:30:00"
+  },
+  {
+    "name": "Dinner at 6:30PM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "18:30:00"
+  },
+  {
+    "name": "Taking notes at 7PM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "19:00:00"
+  },
+  {
+    "name": "Business related videos at 8PM",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "20:00:00"
+  },
+  {
+    "name": "Lalab time",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "21:00:00"
   }
 ]
