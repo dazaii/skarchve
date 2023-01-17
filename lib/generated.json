@@ -1,5 +1,17 @@
 [
   {
+    "name": "I'll be sleeping at 12",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "00:00:00"
+  },
+  {
+    "name": "Midnight snack",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "01:00:00"
+  },
+  {
     "name": "Wake up",
     "color": "this is color",
     "icon": "this is icon",
@@ -100,17 +112,5 @@
     "color": "sdfsd",
     "icon": "sjkdg",
     "time": "22:00:00"
-  },
-  {
-    "name": "I'll be sleeping at 12",
-    "color": "sdfsd",
-    "icon": "sjkdg",
-    "time": "00:00:00"
-  },
-  {
-    "name": "Midnight snack",
-    "color": "sdfsd",
-    "icon": "sjkdg",
-    "time": "01:00:00"
   }
 ]
