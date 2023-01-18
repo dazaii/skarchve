@@ -6,6 +6,18 @@
     "time": "00:00:00"
   },
   {
+    "name": "Lalab time",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "21:00:00"
+  },
+  {
+    "name": "Self time",
+    "color": "sdfsd",
+    "icon": "sjkdg",
+    "time": "22:00:00"
+  },
+  {
     "name": "Midnight snack",
     "color": "sdfsd",
     "icon": "sjkdg",
@@ -100,17 +112,5 @@
     "color": "sdfsd",
     "icon": "sjkdg",
     "time": "20:00:00"
-  },
-  {
-    "name": "Lalab time",
-    "color": "sdfsd",
-    "icon": "sjkdg",
-    "time": "21:00:00"
-  },
-  {
-    "name": "Self time",
-    "color": "sdfsd",
-    "icon": "sjkdg",
-    "time": "22:00:00"
   }
 ]
